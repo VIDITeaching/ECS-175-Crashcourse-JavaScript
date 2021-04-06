@@ -4,7 +4,7 @@ The keywords used to create variables are 'let' and 'const'.
 */
 
 // Declaration
-let a;
+let a; // undefined
 
 // Definition
 const C = 299792458;
@@ -21,11 +21,11 @@ let profile = {
 };
 
 // Template literals
-let message = `Hi, this is ${fullname}, and I'm in year ${year} of my program.}`;
+let message = `Hi, this is ${fullname}, and I'm in year ${year} of my program.`;
 
 
 // Quiz - What will the following lines do? Will there be errors?
-name = 'Lukas';
+fullname = 'Lukas';
 year = 3;
 year = 'one';
 

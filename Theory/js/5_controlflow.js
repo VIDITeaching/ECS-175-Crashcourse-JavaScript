@@ -25,13 +25,14 @@ switch (a) {
         break;
     case 2:
         console.log("Variable 'a' is 2");
-        break;
+        break;        
 }
 
 // For
 for (let i = 0; i < 10; i++) {
     console.log(i);
 }
+
 
 // For In
 let listOfNumbers = [1,2,3,4,5];
@@ -48,14 +49,16 @@ while (a < 10) {
 // Continue, Break
 let b = 0;
 while (true) {
+    b++;
 
-    if (b % 2 == 0) {
+    if (b % 2 != 0) {
         continue;
     }
 
     console.log(`${b} is even.`);
 
-    if (b > 1000) {
+    if (b >= 1000) {
         break;
     }
 }
+

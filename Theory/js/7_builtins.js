@@ -8,6 +8,7 @@ Math.floor(3.4);
 Math.random();
 Math.PI;
 
+
 // DOM
 document.body;
 let el = document.getElementById('element1');
@@ -17,7 +18,7 @@ el.style.fontFamily = 'sans-serif';
 
 // DOM Events
 let btn = document.getElementById('button1');
-btn.onclick = (event) => {
+btn.onclick = () => {
     el.textContent = 'Button was clicked!';
 }
 el.onmouseenter = () => {
