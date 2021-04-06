@@ -14,7 +14,7 @@ function showMessage(message) {
     window.alert(message);
 }
 
-showMessage("Viel Spaß mit ECS162!");
+showMessage("Hello World!");
 
 // Return values
 function pythagoras(a, b) {
@@ -25,11 +25,12 @@ pythagoras(Math.sin(1), Math.cos(1)); // Returns 1
 
 // Save to variable
 let myFunc = showMessage;
-myFunc("Enjoy ECS162!");
+myFunc("Viel Spaß mit ECS162!");
 
 let yourFunc = function(message) {
     console.log(message);
 }
+yourFunc("Enjoy ECS162!");
 
 // Arrow Functions
 let ourFunc = (message, times) => {
@@ -38,3 +39,4 @@ let ourFunc = (message, times) => {
         times--;
     }
 }
+ourFunc("Go Ags!", 5);

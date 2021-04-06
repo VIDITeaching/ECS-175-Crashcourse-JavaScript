@@ -28,8 +28,8 @@ a:visited {
 }
 
 .backdrop {
-    filter: blur(10px);
-    opacity: 0.2;
+    filter: blur(50px);
+    opacity: 0.35;
     transition: all 0.2s;
 }
 
