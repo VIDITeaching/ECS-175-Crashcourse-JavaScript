@@ -25,7 +25,12 @@ switch (a) {
         break;
     case 2:
         console.log("Variable 'a' is 2");
-        break;        
+        break;
+    case 'banana':
+        console.log("Variable 'a' is a fruit");
+        break;
+    default:
+        console.log("Variable 'a' is something else");
 }
 
 // For
