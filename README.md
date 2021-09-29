@@ -1,5 +1,6 @@
 # ECS 175: JavaScript Crashcourse, FQ21
-## Discussion IV
+
+## Discussion I
 
 In this discussion we cover the basics of Javascript.
 
