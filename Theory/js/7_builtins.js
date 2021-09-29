@@ -1,3 +1,5 @@
+'use strict'
+
 /*
 Here are some useful built-in functions that you can use.
 There are many more so feel free to expore!

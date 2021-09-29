@@ -1,3 +1,5 @@
+'use strict'
+
 /* 
 Literals are values that we can represent in JS.
 The main ones are string, number, boolean, list and object.

@@ -1,3 +1,5 @@
+'use strict'
+
 /*
 Variables can be used to store literals (among other things).
 The keywords used to create variables are 'let' and 'const'.

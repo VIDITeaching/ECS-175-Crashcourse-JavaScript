@@ -1,3 +1,5 @@
+'use strict'
+
 /*
 Operators like +, -, *, / can be used to construct new values.
 */

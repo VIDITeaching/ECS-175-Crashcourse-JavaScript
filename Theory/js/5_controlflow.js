@@ -1,3 +1,5 @@
+'use strict'
+
 /*
 Control flow gives you basic tools like condition checking and loops
 */

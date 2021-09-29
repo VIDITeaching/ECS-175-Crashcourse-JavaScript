@@ -1,10 +1,11 @@
+'use strict'
+
 // This is a single-line comment
 
 /*
 This is a...
 ...multi-line comment
 */
-
 
 // Write messages to the console. Great for debugging! 
 console.log("...but it's better to include JS from external .js source files.");

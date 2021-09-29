@@ -1,3 +1,5 @@
+'use strict'
+
 /*
 Functions let you structure your code
 */
@@ -15,6 +17,9 @@ function showMessage(message) {
 }
 
 showMessage("Hello World!");
+showMessage({
+    name: "ECS175"
+})
 
 // Return values
 function pythagoras(a, b) {
