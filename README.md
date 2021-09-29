@@ -1,10 +1,9 @@
-# ECS 175: JavaScript Crashcourse, FQ21
+# ECS 175: Crashcourse JavaScript, FQ21
 
-## Discussion I
+In discussion 1, we covered the basics of Javascript. This is the corresponding repository you can use and play around with for reference.
 
-In this discussion we cover the basics of Javascript.
+## Description
 
-### Theory
 You can find theoretic examples in the ```Theory``` folder.
 There are 10 examples in the ```./js``` folder.
 The ```index.html``` file contains includes for all of them.
