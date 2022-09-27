@@ -35,7 +35,6 @@ class Fruit
 
 }
 
-// class with do's
 class Apple extends Fruit
 {
 

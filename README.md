@@ -1,6 +1,6 @@
 # ECS 175: Crashcourse JavaScript, FQ21
 
-In discussion 1, we covered the basics of Javascript. This is the corresponding repository you can use and play around with for reference.
+In lecture, we covered the basics of Javascript. This is the corresponding repository you can use and play around with for reference.
 
 ## Description
 

@@ -11,7 +11,7 @@ This is a...
 console.log("...but it's better to include JS from external .js source files.");
 
 // Show messages as pop-up alerts.
-window.alert("I'm taking your attention!");
+window.alert("I'm attracting your attention!");
 
 // Insert a message into the DOM
 document.getElementById("element1").textContent = "This text is shown on the page.";

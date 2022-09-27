@@ -30,12 +30,12 @@ pythagoras(Math.sin(1), Math.cos(1)); // Returns 1
 
 // Save to variable
 let myFunc = showMessage;
-myFunc("Viel Spaß mit ECS162!");
+myFunc("Viel Spaß mit ECS175!");
 
 let yourFunc = function(message) {
     console.log(message);
 }
-yourFunc("Enjoy ECS162!");
+yourFunc("Enjoy ECS175!");
 
 // Arrow Functions
 let ourFunc = (message, times) => {

@@ -15,6 +15,11 @@ let course = 'ECS' + '162';
 course = 'ECS' + 162;
 course = `ECS${d}`;
 
+// Spread
+let l = [0.23, 0.64, 0.89, 1.0];
+console.log(l);
+console.log(...l);
+
 // Bitwise
 let f = 0x0FF & 0x00F; // AND -> 0x00F
 let g = 0x0F0 | 0x00F; // OR -> 0x0FF
